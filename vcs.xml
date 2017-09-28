@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Pawel15ti/edu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Konto_jenkins@bitbucket.org/navyseal/edu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\kurs" />
+    <option name="cloneParentDir" value="D:\BITBUCKET" />
   </component>
 </application>
